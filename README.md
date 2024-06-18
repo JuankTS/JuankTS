@@ -30,14 +30,31 @@ Durante mi periodo en el Banco de la República, desempeñé funciones en varias
 
 Durante mi estadía en la entidad, pudimos desarrollar múltiples avances en las investigaciones en las que participé, lo que nos permitió avanzar de manera ágil y obtener resultados satisfactorios.
 
-## Conocimientos y habilidades
-- Python para el análisis y ciencia de datos.
-- SQL.
-- Trabajo en equipo.
-- Sólidos conocimientos en machine learning y análisis de datos.
-- Pensamiento crítico, conceptual y analítico.
-- Proactividad.
-- Excel y Power BI.
+## Conocimientos y habilidades(TECH STACK)
+<div align="center">
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" height="27px"/></a>
+  <a href="https://www.r-project.org/" target="_blank"><img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R" height="27px"/></a>
+<a href="https://matplotlib.org/" target="_blank"><img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=Matplotlib&logoColor=white" alt="Matplotlib" height="27px"/></a>
+  <a href="https://jupyter.org/" target="_blank"><img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" height="27px"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" height="27px"/></a>
+  <a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" height="27px"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" height="27px"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" height="27px"/></a> 
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" height="27px"/></a>
+  <a href="https://powerbi.microsoft.com/es/" target="_blank"><img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" height="27px"/></a>
+  <a href="https://www.tableau.com/" target="_blank"><img src="https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="TABLEAU" height="27px"/></a>
+  <a href="https://streamlit.io/" target="_blank"><img src="https://img.shields.io/badge/Streamlit-111112?&style=for-the-badge&logo=streamlit&logoColor=FF4B4B" alt="streamlit" height="27px"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" height="27px"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" height="27px"/></a>
+  <a href="https://markdown.es/" target="_blank"><img src="https://img.shields.io/badge/Markdown-111112?&style=for-the-badge&logo=markdown&logoColor=white" alt="markdown" height="27px"/></a>
+  <a href="https://slack.com" target="_blank"><img src="https://img.shields.io/badge/Slack-111112?&style=for-the-badge&logo=slack&logoColor=4A154B" alt="slack" height="27px"/></a>
+  <a href="https://www.rstudio.com/" target="_blank"><img src="https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white" alt="RStudio" height="27px"/></a>
+  <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank"><img src="https://img.shields.io/badge/MACHINE%20LEARNING-005571?style=for-the-badge&logo=machine-learning&logoColor=white" alt="MACHINE LEARNING" height="27px"/></a>
+  <a href="https://en.wikipedia.org/wiki/Econometrics" target="_blank"><img src="https://img.shields.io/badge/ECONOMETRIA-4285F4?style=for-the-badge&logo=econometrics&logoColor=white" alt="ECONOMETRIA" height="27px"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" height="27px"/></a>
+</div>  
+<br>
+
 
 ## Proyectos
-Durante el proceso de convertirme en profesional, he realizado diversos proyectos en los cuales he podido aplicar todo lo que he adquirido de manera teórica o práctica, proyectos que puedes ver en este [Link](https://github.com/JuankTS?tab=repositories).
+Durante el proceso de convertirme en profesional integro, he realizado diversos proyectos en los cuales he podido aplicar todo lo que he adquirido de manera teórica o práctica, proyectos que puedes ver en este [Link](https://github.com/JuankTS?tab=repositories).
