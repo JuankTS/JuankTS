@@ -11,7 +11,7 @@
 
 <h2>
  Sobre Mí
-  <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" alt="GIF" width="100" height="100">
+  <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" alt="GIF" width="70" height="70">
 </h2>
 
 Economista titulado con sólida experiencia en análisis de datos y competencias en Python, R, Machine Learning, Stata, MySQL y Power BI. Con un enfoque proactivo y adaptable, me especializo en resolver desafíos complejos mediante el análisis de datos, mejorando la eficiencia y alcanzando objetivos estratégicos. Mi pasión radica en la interpretación de datos para identificar oportunidades de mejora y avanzar efectivamente hacia las metas establecidas.
