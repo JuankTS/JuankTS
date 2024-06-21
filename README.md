@@ -1,5 +1,7 @@
-# <div align='center'> ![Dark Blue Futuristic How Artificial Intelligence Youtube Thumbnail](https://github.com/JuankTS/JuankTS/assets/166193432/ec6cf1af-51e5-48b0-be7e-fe6d982ddc18)
+<div align='center'>
+  <img src="https://github.com/JuankTS/JuankTS/assets/166193432/ec6cf1af-51e5-48b0-be7e-fe6d982ddc18" alt="Dark Blue Futuristic How Artificial Intelligence Youtube Thumbnail" width="900" height="500">
 </div>
+
 <div align="center">
   <a href='https://www.linkedin.com/in/juan-camilo-torres-salas-907749265/'>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
