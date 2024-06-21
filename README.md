@@ -51,6 +51,9 @@ También cuento con conocimientos y experiencia en ciencia de datos, en los cual
   <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank"><img src="https://img.shields.io/badge/MACHINE%20LEARNING-005571?style=for-the-badge&logo=machine-learning&logoColor=white" alt="MACHINE LEARNING" height="27px"/></a>
   <a href="https://en.wikipedia.org/wiki/Econometrics" target="_blank"><img src="https://img.shields.io/badge/ECONOMETRIA-4285F4?style=for-the-badge&logo=econometrics&logoColor=white" alt="ECONOMETRIA" height="27px"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" height="27px"/></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&colorLeft=00FF00&colorRight=32CD32" width="1200"/>
+</p>
 </div>  
 <br>
 
