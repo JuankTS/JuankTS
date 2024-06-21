@@ -16,19 +16,12 @@ Adicionalmente, tengo un profundo conocimiento en machine learning y ciencia de 
 
 Soy economista titulado de la Universidad del Atlántico de Barranquilla. Durante mi formación como profesional en esta área, puedo destacar que adquirí múltiples conocimientos y experiencias enriquecedoras en el análisis de datos, econometría, análisis económico y de problemáticas sociales, redacción y planteamiento de problemas, entre otras muchas habilidades que me llevaron a transformarme en un profesional integral.
 
+<p align='center'>
+  <img src="https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif" width="480" height="259" />
+</p>
+
+
 También cuento con conocimientos y experiencia en ciencia de datos, en los cuales pude complementar, pulir y mejorar mis habilidades profesionales, agregando a mi stack conocimientos en machine learning y sus diversas áreas, junto con la programación en Python y SQL, habilidades en visualización y storytelling de los datos, competencias que convergen de manera excelente con mi formación profesional.
-
-## Mi experiencia
-
-Tuve la oportunidad de desempeñarme como Asistente de investigación en el Centro Regional de Estudios Económicos (CREE) del Banco de la República de Colombia en Cartagena.
-
-Durante mi periodo en el Banco de la República, desempeñé funciones en varias investigaciones, y mis aportes fueron:
-- Recopilación, digitalización, manejo y visualización de datos en distintos lenguajes y motores de procesamiento como Stata, Python y R.
-- Análisis de datos.
-- Revisión de documentación.
-- Comunicación de resultados.
-
-Durante mi estadía en la entidad, pudimos desarrollar múltiples avances en las investigaciones en las que participé, lo que nos permitió avanzar de manera ágil y obtener resultados satisfactorios.
 
 ## Conocimientos y habilidades(TECH STACK)
 <div align="center">
