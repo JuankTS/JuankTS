@@ -1,5 +1,5 @@
 <div align='center'>
-  <img src="https://github.com/JuankTS/JuankTS/assets/166193432/ec6cf1af-51e5-48b0-be7e-fe6d982ddc18" alt="Dark Blue Futuristic How Artificial Intelligence Youtube Thumbnail" width="900" height="500">
+  <img src="https://github.com/JuankTS/JuankTS/assets/166193432/ec6cf1af-51e5-48b0-be7e-fe6d982ddc18" alt="Dark Blue Futuristic How Artificial Intelligence Youtube Thumbnail" width="900" height="400">
 </div>
 
 <div align="center">
