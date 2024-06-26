@@ -18,7 +18,9 @@ Economista titulado con sólida experiencia en análisis de datos y competencias
 
 Adicionalmente, tengo un profundo conocimiento en machine learning y ciencia de datos, lo que me permite desarrollar modelos predictivos y soluciones basadas en datos para diversos problemas. Busco un entorno dinámico donde pueda aplicar mis habilidades analíticas y de ciencia de datos, contribuir al crecimiento del equipo y de la organización, y continuar desarrollándome profesionalmente.
 
-## Estudios
+<h2>
+  Estudios
+</h2>
 
 Titulado de la Universidad del Atlántico de Barranquilla. Durante mi formación como profesional en el área de la economía, puedo destacar que adquirí múltiples conocimientos y experiencias enriquecedoras en el análisis de datos, econometría, análisis económico y de problemáticas sociales, redacción y planteamiento de problemas, entre otras muchas habilidades que me llevaron a transformarme en un profesional integral.
 
@@ -29,7 +31,9 @@ Titulado de la Universidad del Atlántico de Barranquilla. Durante mi formación
 
 También cuento con conocimientos y experiencia en ciencia de datos, en los cuales pude complementar, pulir y mejorar mis habilidades profesionales, agregando a mi stack conocimientos en machine learning y sus diversas áreas, junto con la programación en Python y SQL, habilidades en visualización y storytelling de los datos, competencias que convergen de manera excelente con mi formación profesional.
 
-## Conocimientos y habilidades(TECH STACK)
+<h2>
+  Conocimientos y habilidades(TECH STACK)
+</h2>
 <div align="center">
   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" height="27px"/></a>
   <a href="https://www.r-project.org/" target="_blank"><img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R" height="27px"/></a>
@@ -58,7 +62,9 @@ También cuento con conocimientos y experiencia en ciencia de datos, en los cual
 <br>
 
 
-## Proyectos
+<h2>
+  Proyectos
+</h2>
 Durante el proceso de convertirme en profesional integro, he realizado diversos proyectos en los cuales he podido aplicar todo lo que he adquirido de manera teórica o práctica, proyectos que puedes ver en este [Link](https://github.com/JuankTS?tab=repositories).
 <p align="center">
   <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="GIF" width="300" height="300" />
