@@ -5,7 +5,7 @@
 </div>
 <div align="center">
   <a href='https://www.linkedin.com/in/juan-camilo-torres-salas-907749265/'><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-  <a href='torressalasjc@gmail.com'><img src="https://skillicons.dev/icons?i=gmail&theme=light"/></a>
+  <a href='mailto:torressalasjc@gmail.com'><img src="https://skillicons.dev/icons?i=gmail&theme=light"/></a>
   </a>
 </div>
 
