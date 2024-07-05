@@ -39,18 +39,24 @@ También cuento con conocimientos y experiencia en ciencia de datos, en los cual
   <a href="https://www.python.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=python&theme=light"/></a>
   <a href="https://www.r-project.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=r&theme=light" /></a>
   <a href="https://matplotlib.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib&theme=light" /></a>
+  <a href="https://www.microsoft.com/es-co/microsoft-365/excel" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=excel&theme=light" /></a>
+</p>
+<p align="center">
   <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=seaborn&theme=light" /></a>
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=pandas&theme=light" /></a>
   <a href="https://numpy.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=numpy&theme=light" /></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=mysql&theme=light" /></a>
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn&theme=light" /></a>
   <a href="https://www.tableau.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=tableau&theme=light" /></a>
+</p>
+<p align="center">
   <a href="https://streamlit.io/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=streamlit&theme=light" /></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=light" /></a>
   <a href="https://github.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=github&theme=light"/></a>
   <a href="https://daringfireball.net/projects/markdown/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=markdown&theme=light" /></a>
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow&theme=light" /></a>
 </p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&colorLeft=00FF00&colorRight=32CD32" width="1200"/>
