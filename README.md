@@ -48,6 +48,7 @@ También cuento con conocimientos y experiencia en ciencia de datos, en los cual
   <a href="https://www.mysql.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=mysql&theme=light" /></a>
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn&theme=light" /></a>
   <a href="https://www.tableau.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=tableau&theme=light" /></a>
+  <a href="https://fastapi.tiangolo.com" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi&theme=dark" /></a>
 </p>
 <p align="center">
   <a href="https://streamlit.io/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=streamlit&theme=light" /></a>
