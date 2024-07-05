@@ -71,4 +71,7 @@ Durante el proceso de convertirme en un profesional íntegro, he realizado diver
 <p align="center">
   <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="GIF" width="300" height="300" />
 </p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=JuankTS&&style=for-the-badge" align="center" />
+</div>
 
