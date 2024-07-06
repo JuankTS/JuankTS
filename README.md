@@ -11,7 +11,7 @@
 
 <h2>
  Sobre Mí
-  <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" alt="GIF" width="70" height="70">
+  <img src="https://media.giphy.com/media/nmAFUoJiVhiZsarJ77/giphy.gif"  width="70" height="70">
 </h2>
 
 Economista titulado con sólida experiencia en análisis de datos y competencias en Python, R, Machine Learning, Stata, MySQL y Power BI. Con un enfoque proactivo y adaptable, me especializo en resolver desafíos complejos mediante el análisis de datos, mejorando la eficiencia y alcanzando objetivos estratégicos. Mi pasión radica en la interpretación de datos para identificar oportunidades de mejora y avanzar efectivamente hacia las metas establecidas.
@@ -20,7 +20,7 @@ Adicionalmente, tengo un profundo conocimiento en machine learning y ciencia de 
 
 <h2>
   Estudios 
-  
+   <img src="https://media.giphy.com/media/gjxYwnMG7Mocmc75DM/giphy.gif"  width="70" height="70">
 </h2>
 
 Titulado de la Universidad del Atlántico de Barranquilla. Durante mi formación como profesional en el área de la economía, puedo destacar que adquirí múltiples conocimientos y experiencias enriquecedoras en el análisis de datos, econometría, análisis económico y de problemáticas sociales, redacción y planteamiento de problemas, entre otras muchas habilidades que me llevaron a transformarme en un profesional integral.
