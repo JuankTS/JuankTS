@@ -19,13 +19,13 @@ Economista titulado con sólida experiencia en análisis de datos y competencias
 Adicionalmente, tengo un profundo conocimiento en machine learning y ciencia de datos, lo que me permite desarrollar modelos predictivos y soluciones basadas en datos para diversos problemas. Busco un entorno dinámico donde pueda aplicar mis habilidades analíticas y de ciencia de datos, contribuir al crecimiento del equipo y de la organización, y continuar desarrollándome profesionalmente.
 
 <h2>
-  Estudios
+  Estudios 📚
 </h2>
 
 Titulado de la Universidad del Atlántico de Barranquilla. Durante mi formación como profesional en el área de la economía, puedo destacar que adquirí múltiples conocimientos y experiencias enriquecedoras en el análisis de datos, econometría, análisis económico y de problemáticas sociales, redacción y planteamiento de problemas, entre otras muchas habilidades que me llevaron a transformarme en un profesional integral.
 
 <p align='center'>
-  <img src="https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif" width="480" height="259" />
+  <img src="https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif" width="480" height="260" />
 </p>
 
 
@@ -33,7 +33,10 @@ También cuento con conocimientos y experiencia en ciencia de datos, en los cual
 
 <h2>
   Conocimientos y habilidades(TECH STACK)
+  <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="70" height="70" />
 </h2>
+
+
 
 <p align="center">
   <a href="https://www.python.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=python&theme=light"/></a>
@@ -63,7 +66,11 @@ También cuento con conocimientos y experiencia en ciencia de datos, en los cual
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&colorLeft=00FF00&colorRight=32CD32" width="1200"/>
 </p>
 
-<h2>Proyectos</h2>
+<h2>Proyectos y Stats</h2>
+
+<div align='center'>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuankTS&theme=nord_bright">
+</div>
 
 Durante el proceso de convertirme en un profesional íntegro, he realizado diversos proyectos en los cuales he podido aplicar todo lo que he adquirido de manera teórica o práctica. Puedes ver estos proyectos en mi [repositorio de GitHub](https://github.com/JuankTS?tab=repositories).
 
@@ -74,4 +81,3 @@ Durante el proceso de convertirme en un profesional íntegro, he realizado diver
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=JuankTS&&style=for-the-badge" align="center" />
 </div>
-
