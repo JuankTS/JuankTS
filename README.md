@@ -14,7 +14,7 @@
   <img src="https://media.giphy.com/media/nmAFUoJiVhiZsarJ77/giphy.gif"  width="70" height="70">
 </h2>
 
-Economista titulado con sólida experiencia en análisis de datos y competencias en Python, R, Machine Learning, Stata, MySQL y Power BI. Con un enfoque proactivo y adaptable, me especializo en resolver desafíos complejos mediante el análisis de datos, mejorando la eficiencia y alcanzando objetivos estratégicos. Mi pasión radica en la interpretación de datos para identificar oportunidades de mejora y avanzar efectivamente hacia las metas establecidas.
+Economista titulado con sólida experiencia en análisis y ciencia de datos, junto a competencias en Python, R, Machine Learning, Stata, MySQL y Power BI. Con un enfoque proactivo y adaptable, me especializo en resolver desafíos complejos mediante el análisis de datos, mejorando la eficiencia y alcanzando objetivos estratégicos. Mi pasión radica en la interpretación de datos para identificar oportunidades de mejora y avanzar efectivamente hacia las metas establecidas.
 
 Adicionalmente, tengo un profundo conocimiento en machine learning y ciencia de datos, lo que me permite desarrollar modelos predictivos y soluciones basadas en datos para diversos problemas. Busco un entorno dinámico donde pueda aplicar mis habilidades analíticas y de ciencia de datos, contribuir al crecimiento del equipo y de la organización, y continuar desarrollándome profesionalmente.
 
